@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/article-preview-component-4urO_n1LOw)
-- [Live Site URL](https://adorable-boba-77b0da.netlify.app/)
+- [Solution URL](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-M4N1qnu9DZ)
+- [Live Site URL](https://gleeful-kitsune-6e6ebd.netlify.app/)
 
 ## My process
 
