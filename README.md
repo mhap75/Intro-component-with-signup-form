@@ -44,4 +44,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@mhap75](https://www.frontendmentor.io/profile/mhap75)
-- Twitter - [@mhamirpanahi](https://www.twitter.com/mhamirpanahi)
+- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://www.twitter.com/mhamirpanahi)
