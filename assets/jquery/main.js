@@ -17,13 +17,11 @@ jQuery(function ($) {
     $('form input[type="email"]').on('focusout keyup', function () {
         let testEmail = /^[A-Z0-9._%+-]+@([A-Z0-9-]+\.)+[A-Z]{2,4}$/i;
         if (!testEmail.test($(this).val()) && $(this).val() !== '') {
-            $(this).css('border-color', 'hsl(0, 100%, 74%)');
+            $(this).css({ 'border-color': 'hsl(0, 100%, 74%)', 'color': 'hsl(0, 100%, 74%)' });
             $(this).siblings('.invalidEmail, img').css('display', 'inline-block');
-            $(this).css('color', 'hsl(0, 100%, 74%)');
         } else {
-            $(this).css('border-color', 'hsl(246, 25%, 77%)');
+            $(this).css({ 'border-color': 'hsl(246, 25%, 77%)', 'color': 'black' });
             $(this).siblings('.invalidEmail').css('display', 'none');
-            $(this).css('color', 'black');
         }
     });
 });
